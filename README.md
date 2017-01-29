@@ -1,2 +1,2 @@
 # wecuriocity.github.io
-Our website. :)
+<a href="https://wecuriocity.github.io/"> Visit our website </a>
