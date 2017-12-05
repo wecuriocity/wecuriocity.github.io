@@ -768,7 +768,10 @@ hr {
 }
 #sf {
     display: block;
-    width: 100%}
+    width: 100%;
+    height: 50%;
+
+}
 #sf .container {
     width: 100%}
 #sf .col-lg-4 {
